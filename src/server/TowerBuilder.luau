@@ -105,7 +105,8 @@ local function buildStage(world: Folder, stageIndex: number): Part
 	end
 
 	-- Checkpoint pad: wide, glowing, ends the stage and saves the climber.
-	local checkpointY = baseY + layout.stageHeight
+	-- stageHeight is the pad's absolute height above the base (see GameConfig).
+	local checkpointY = layout.stageHeight
 	local checkpoint = newPart(
 		string.format("Stage%d_Checkpoint", stageIndex),
 		Vector3.new(14, 1, 14),
