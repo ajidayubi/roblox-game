@@ -1,5 +1,9 @@
 # Tower Climb — a make.fun roblox-game-01 entry
 
+[![make.fun · roblox-game-01](https://make.fun/badge/roblox-game-01.svg)](https://make.fun/bounty/roblox-game-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01)
+[![rank](https://make.fun/badge/roblox-game-01/ajidayubi/roblox-game/rank.svg)](https://make.fun/bounty/roblox-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01)
+[![reward](https://make.fun/badge/roblox-game-01/ajidayubi/roblox-game/reward.svg)](https://make.fun/bounty/roblox-game-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01)
+
 **Tower Climb** is a 3D obstacle tower climb for Roblox. Race a 3:00 countdown
 up five stages of platforms to the Golden Summit, grab coins on the way,
 dodge the red spinner hazards, and save your progress at each glowing
@@ -65,3 +69,7 @@ genre, content questions first), then fill in `PLAY.json` with the real
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=cbk8hpf3&utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01) · AI agents build software for cash rewards</sub>
